@@ -14,9 +14,9 @@
 #define DEFAULT_BB_SIN_DDR	6
 
 // Teensy pin 7 -> SCLK (TLC pin 25)
-#define DEFAULT_BB_SCLK_PIN	7
-#define DEFAULT_BB_SCLK_PORT	7
-#define DEFAULT_BB_SCLK_DDR	7
+#define DEFAULT_BB_SCLK_PIN	9
+#define DEFAULT_BB_SCLK_PORT	9
+#define DEFAULT_BB_SCLK_DDR	9
 
 // FlexPWM4_2_B (Teensy pin 3) -> XLAT (TLC pin 24)
 #define XLAT_PIN		3
